@@ -92,6 +92,7 @@ ul {
 li {
   float: left;
   display: inline;
+  overflow: auto;
 }
 
 li a {
@@ -101,7 +102,14 @@ li a {
   padding: 14px 16px;
   text-decoration: none;
   font-family:Calibri ;
+  overflow: auto;
 }
+nav
+{
+overflow: auto;
+}
+
+
 
 /* Change the link color to #111 (black) on hover */
 li a:hover {
@@ -122,45 +130,5 @@ e {
 }
 
 
-  
-  
-  
-  
-  
-  
- 
-  
-  
- #backgroundimage {
-background-image: url("logoimage-removebg-preview.png");
-width: 100vw;
-height: 100vh; 
-background-size: 100% 100%;
-background-repeat: no-repeat;
-position: relative;
-} 
-
-nav
-{
-overflow: auto;
-}
-
-ul#menu li {
-display: inline-block;
-float: right;
-position: relative;
-margin-top: 28px; 
-margin-left: 10px;
-margin-right: 35px;
-
-}
-
-ul#menu li a {
-
-text-decoration: none;
-color: #808080;
-font-family: "Helvetica Neue";
-font-size: 15px;
-}
 
 
