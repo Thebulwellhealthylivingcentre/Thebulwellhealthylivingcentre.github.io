@@ -72,21 +72,17 @@ p.solid {
   margin right: auto;
 }
 
-ul {
-  list-style-type: none;
-  margin: 0;
-  padding: 0;
-}
 
 ul {
   list-style-type: none;
   margin: 0px;
   padding: 0px;
-  overflow: hidden;
+  overflow: none;
   background-color: #E62429;
   position: fixed;
   top: 0;
   width: 98.5%;
+  
 }
 
 li {
