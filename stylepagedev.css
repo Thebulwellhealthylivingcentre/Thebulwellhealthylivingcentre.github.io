@@ -100,13 +100,14 @@ position: relative;
 margin-top: 28px; 
 margin-left: 10px;
 margin-right: 35px;
+color: red;
 
 }
 
 ul#menu li a {
 
 text-decoration: none;
-color: #808080;
+color: black;
 font-family: "Helvetica Neue";
 font-size: 15px;
 }
