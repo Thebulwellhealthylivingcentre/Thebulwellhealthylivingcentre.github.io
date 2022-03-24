@@ -1,0 +1,166 @@
+body {
+  background-color: #FFFFFF;
+}
+
+h1 {
+  color: #E62429;
+  margin-left: 20px;
+  font-size: 40px;
+}
+
+h2 {
+  color: #5753CC;
+  margin-left: 20px;
+  font-size: 40px;
+}
+
+h3 {
+  color: #ffea00;
+  margin-left: 20px;
+  font-size: 40px;
+}
+h1 , h2, h3 {
+  width: 50%;
+  height: 60px;
+  margin: 0;
+  padding: 0;
+  display: inline;
+
+}
+
+
+body, html {
+  height: 100%;
+}
+
+.hero-image {
+  height:50%;
+ 
+  background-image: url("Heroimage.png");
+
+  /* Position and center the image to scale nicely on all screens */
+  background-position: center ;
+  background-repeat: no-repeat;
+  background-size: 100%;
+  position: relative;
+}
+
+
+p {
+  text-align:center;
+  font-family:Verdana;
+  font-style:italic;
+  font-weight:bold;
+  color:#000000;
+  padding: 5px;
+}
+
+p.solid {
+  font-weight: 600;
+}
+
+.text-box {
+  border: #FF0000 solid 10px;
+  /* border-radius: 25px; */
+  background: #ffffff;
+  margin-bottom: 20px;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin right: auto;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0px;
+  padding: 0px;
+  overflow: hidden;
+  background-color: #E62429;
+  position: fixed;
+  top: 0;
+  width: 98.5%;
+}
+
+li {
+  float: left;
+  display: inline;
+}
+
+li a {
+  display: block;
+  color: black;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-family:Calibri ;
+}
+
+/* Change the link color to #111 (black) on hover */
+li a:hover {
+  background-color:#008dff ;
+}
+.current-page{
+  background-color: #32c5ca;
+{
+
+
+e {
+  text-align:center;
+  font-family:Verdana;
+  font-style:italic;
+  font-weight:bold;
+  color:#000000;
+  padding: 5px;
+}
+
+
+  
+  
+  
+  
+  
+  
+ 
+  
+  
+ #backgroundimage {
+background-image: url("logoimage-removebg-preview.png");
+width: 100vw;
+height: 100vh; 
+background-size: 100% 100%;
+background-repeat: no-repeat;
+position: relative;
+} 
+
+nav
+{
+overflow: auto;
+}
+
+ul#menu li {
+display: inline-block;
+float: right;
+position: relative;
+margin-top: 28px; 
+margin-left: 10px;
+margin-right: 35px;
+
+}
+
+ul#menu li a {
+
+text-decoration: none;
+color: #808080;
+font-family: "Helvetica Neue";
+font-size: 15px;
+}
+
+
