@@ -33,17 +33,6 @@ body, html {
   height: 100%;
 }
 
-.hero-image {
-  height:50%;
- 
-  background-image: url("Heroimage.png");
-
-  /* Position and center the image to scale nicely on all screens */
-  background-position: center ;
-  background-repeat: no-repeat;
-  background-size: 100%;
-  position: relative;
-}
 
 
 p {
